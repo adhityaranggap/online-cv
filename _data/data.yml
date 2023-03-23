@@ -7,23 +7,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Adhitya Rangga Putra
+    tagline: Solution Architect
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: adhityaranggap@gmail.com
+    phone: 
+    timezone: Asia/Jakarta
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website:
+    linkedin: adhityarangga
+    xing:
+    github: adhityaranggap
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,66 +33,51 @@ sidebar:
       title: Languages
       info:
         - idiom: English
+          level: Intermediate
+
+        - idiom: Bahasa
           level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Biking
           link:
 
-        - item: Snowboarding
+        - item: Backpacker
           link:
 
-        - item: Cooking
+        - item: Badminton
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Exicted man with IT Infrastructure and Network. Start career from IT Support, 
+      Network Engineer, Cloud Engineer. Now I'm Solution Architect 
+      You can [download this free resume/CV template here]().
+      AWS Certified Solution Architect, and Google Cloud Certified Cloud Architect.
+   
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Bachelor in Computer Engineering
+        university: Bina Insani University
+        time: 2018 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Getting start for Basic Software Engineering, Security Penetration Testing, and Network.
+          Security Compliance and Management
+      - degree: Vocation in Computer and Network Engineering
+        university: SMK Bina Nasional Informatika
+        time: 2013 - 2016
+    
+          
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Solution Architect
+        time: 2022 - Present
+        company: Elitery, Jakarta
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
